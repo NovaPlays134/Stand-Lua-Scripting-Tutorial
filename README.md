@@ -12,6 +12,7 @@ You can do this by clicking the Extensions button on the left side of vsc and se
 
 Then when your code editor is setup for making scripts you will need to open the Stand Launchpad and click "Open Stand Folder"
 you will see an folder called Lua Scripts you open it and make an new txt file and name it to the name you want it to be this will also be the name it will display in stand when you got your name you just need to change from .txt to .lua to change the type of the file to a lua file.
+example --> NovaScript.lua
 
 # Simple idea
 When you are getting started and are a beginner its the best you think of something simple to create like spawning in an vehilce or object.
