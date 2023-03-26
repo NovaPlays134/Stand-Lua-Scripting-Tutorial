@@ -55,7 +55,8 @@ menu.action(menu.my_root(), "Spawn Vehicle", {}, "With Stands api.", function()
     request_model(hash)
     --then we create the vehicle with the stand api--
     entities.create_vehicle(hash, position, 0)
-end)```
+end)
+```
 In this code you have 2 action options in the menu.my_root() the first one uses the gta native db for creating the vehicle and the second uses the stand api to create the vehicle.
 
 The functions you see that are written in CAPS means that they come from the gta native db since all the functions are written in caps the rest somes from the stand api look when they do read the stand api and look in the native db to see what you can all do and theres alot that you can do trust me.
@@ -75,7 +76,8 @@ menu.action(spawn_vehicle_list, "Spawn Vehicle", {}, "With Stands api.", functio
     request_model(hash)
     --then we create the vehicle with the stand api--
     entities.create_vehicle(hash, position, 0)
-end)```
+end)
+```
 
 # Other way you can set the root of the list
 On the stand api website you see ":action(...) — shorthand for menu.action" and ":list(...) — shorthand for menu.list" as you see these are shorthand for the things we used these are shorter then u just learned this does the same but it shorter
