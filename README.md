@@ -20,7 +20,9 @@ Ill explain on how you can spawn in a vehicle.
 
 # websites you will need for this.
 You will need the stand api for the basic functions to make options for stand. (https://stand.gg/help/lua-api-documentation)
+
 You will also need the Gta V Native data base, natives are functions used by the game that you can use to make stuff with. (https://nativedb.dotindustries.dev/natives)
+
 For this option (spawning a vehicle) you will need to pick the vehicle you wanna spawn you can find the vehicles on alot of websites but i always use this one. (https://gtahash.ru/car/)
 
 # The code
